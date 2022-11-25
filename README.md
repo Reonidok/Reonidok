@@ -6,8 +6,8 @@
 
 ### Connect with me:
 
-(./img/twitter-light.jpg)](https://twitter.com/reonkoz#gh-light-mode-only)
-(./img/twitter-dark.jpg)](https://twitter.com/reonkoz#gh-dark-mode-only)
+(./img/twitter-light.jpg)(https://twitter.com/reonkoz#gh-light-mode-only)
+(./img/twitter-dark.jpg)(https://twitter.com/reonkoz#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
