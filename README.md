@@ -1,4 +1,4 @@
-# Hi there, I'm Leon - aka [Reonidok] 👋 
+# Hi there, I'm Leon👋 
 
 ## I'm a Developer, and just a good guy🤣!!
 
